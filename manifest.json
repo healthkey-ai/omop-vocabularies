@@ -1,8 +1,8 @@
 {
   "athena": {
     "file": "vocabulary_download_v5_{9d59de05-00e4-49ee-8e6b-2c8260af56f4}_1790685808419.zip",
-    "sha256": "7bb0311e5e34ecd5fbdd10da0f5f24d3eb094e89a14f78f929364e13df57b23d",
-    "size": 1043707771
+    "sha256": "d539e41592627ec4a65b76e91ce82f8526f37980f8a9237dae26e939ba5dc66c",
+    "size": 1043707822
   },
   "loinc": {
     "file": "Loinc_2.83.zip",
@@ -10,5 +10,5 @@
     "size": 92815327,
     "version": "2.83"
   },
-  "released": "2026-11-04"
+  "released": "2026-11-05"
 }
